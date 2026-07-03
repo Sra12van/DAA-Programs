@@ -10,7 +10,7 @@ To implement Interpolation Search and compare its performance with Binary Search
 Python
 
 ## Files
-- interpolation_search.py
+-DAA 1 experiment.py
 - output.txt
 
 ## How to Run
